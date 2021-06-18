@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run rough.py
+web: sh setup.sh && streamlit run sp.py
